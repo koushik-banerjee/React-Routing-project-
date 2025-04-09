@@ -1,5 +1,5 @@
 # About this Project 
-this is a project that is used to learn routing and fetching data from git api and showcasing profile info and repos of the profile.
+This is a project that is used to learn routing and fetching data from git api and showcasing profile info and repos of the profile.
 
 
 ## React + Vite
