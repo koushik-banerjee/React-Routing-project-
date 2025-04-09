@@ -25,7 +25,11 @@ const router = createBrowserRouter(
       <Route path="user/:userid" element={<User />} />
       <Route path="github" element={<Github />} />
     </Route>
-  )
+  ),
+  {
+    basename: "/React-Routing-project-",
+  }
+
 );
 
 createRoot(document.getElementById("root")).render(
